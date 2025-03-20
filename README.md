@@ -31,7 +31,7 @@ This project helps businesses optimize their **supply chain operations** by iden
 ### 1️⃣ **Clone the Repository**
 
 ```sh
-https://github.com/devaldaki3/ai_project
+https://github.com/Jethalal314/timelytics
 ```
 
 ### 2️⃣ **Install Required Dependencies**
@@ -96,4 +96,4 @@ This project is open-source and free to use under the **MIT License**.
 
 For questions or contributions, feel free to reach out!
 
-📌 **GitHub**: [devaldaki3](https://github.com/devaldaki3)
+📌 **GitHub**: [Jethalal314](https://github.com/Jethalal314)
